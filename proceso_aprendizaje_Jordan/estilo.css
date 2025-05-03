@@ -1,0 +1,205 @@
+body{
+    background-color: antiquewhite;
+}
+#todo{
+    background-image: url(imagenes/fondo.jpg);
+    margin: auto;
+    width: 40%;
+    height: 95%;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+   border: 2px dotted ;
+   padding: 20px;
+}
+#cabeza{
+    display: flex;
+    margin: auto;
+    margin-top: 2%;
+    width: 97%;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: solid 3px;
+}
+.isil{
+    border-radius: 60%;
+}
+h1{
+    color:rgb(0, 162, 255);
+    background-color: white;
+    text-shadow: 3px 5px 5px black;
+    display: flex;
+    justify-content: center;
+    font-family: "Tagesschrift", system-ui;
+    font-size: 50px;
+}
+h2{
+    display: flex;
+    justify-content: right;
+    font-size: small;
+    font-weight: normal;
+    color: darkslategray;
+}
+.color{
+background-color: white;
+}
+h3{
+    text-decoration: underline;
+    font-size: 25px;
+    font-style: italic;
+    font-weight: normal;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+p{
+    font-family: sans-serif;
+    font-size: large;
+}
+#cuerpo{
+    display: flex;
+    border: 2px solid;
+    justify-content: space-around;
+    flex-direction: row;
+    padding: 15px;
+}
+#tipo{
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+    margin-top: auto;
+}
+.imagen{
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    margin: auto;
+    margin-bottom: 1px;
+}
+.imagen2{
+    width: 44%;
+    display: flex;
+    justify-content: center;
+    margin: auto;
+    margin-bottom: 1px;
+}
+#tipo1{
+    border: 1px, solid;
+    margin: 5px;
+    background-color: antiquewhite;
+}
+#tipo2{
+    border: 1px, solid;
+    margin: 5px;
+    background-color: antiquewhite;
+}
+#tipo3{
+    border: 1px, solid;
+    margin: 5px;
+    background-color: antiquewhite;
+}
+h4{
+    color: white;
+    justify-content: center;
+    text-align: justify;
+}
+#fondo1{
+    background-color: orangered;
+    display: flex;
+    margin: 15px;
+    height: 60px;  
+    justify-content: center;
+}
+#fondo2{
+    background-color: blue;
+    display: flex;
+    margin: 15px;
+    height: 60px;  
+    justify-content: center;
+}
+#fondo3{
+    background-color: green;
+    display: flex;
+    margin: 15px;
+    height: 60px;  
+    justify-content: center;
+}
+#cintura{
+    display: flex;
+    border: 2px, solid;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row;
+    padding: 3px;
+}
+#tipo15{
+    display: flex;
+    border: 1px  solid;
+    margin: 5px;
+    background-color: antiquewhite;
+    flex-direction: column;
+    width: 100%;
+}
+#tipo25{
+    display: flex;
+    border: 1px solid;
+    margin: 5px;
+    background-color: antiquewhite;
+    flex-direction: column;
+    width: 100%;
+}
+#tipo35{
+    display: flex;
+    border: 1px solid;
+    margin: 5px;
+    background-color: antiquewhite;
+    flex-direction: column;
+    width: 100%;
+}
+p{
+    color: darkslategray;
+    font-size: 17px;
+}
+#fondo15{
+    background-color: orangered;
+    display: flex;
+    margin: 15px;
+    height: 60px;  
+    justify-content: center;
+}
+#fondo25{
+    background-color: blue;
+    display: flex;
+    margin: 15px;
+    height: 60px;  
+    justify-content: center;
+}
+#fondo35{
+    background-color: green;
+    display: flex;
+    margin: 15px;
+    height: 60px;  
+    justify-content: center;
+}
+#casas{
+    display: flex;
+    width: 55%;
+    margin: auto;
+    padding: 10px;
+    box-shadow: 10px 5px 1px lightslategray;
+    
+}
+#separador{
+    display: flex;
+    padding: 30px;
+}
+#pie{
+    display: flex;
+    border-top:2px solid;
+    flex-direction: column;
+}
+#h5{
+    background-color: aliceblue;
+    border-radius: 15px;
+    color: darkslategray;
+    font-size: 17px;
+    font-style: italic;
+}
